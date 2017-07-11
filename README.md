@@ -10,6 +10,6 @@ Menggunakan Java 1.8 (Java™ Platform, Standard Edition 8)
 Cara menggunakan:
 1.	Download project https://github.com/dnaftali/siranap-post
 2.	Generate file "siranap.sql" pada server MySQL.
-3.	Edit credential dan header pada file "/src/siranappost/SiranapPOST.java"
+3.	Edit credential dan header pada file "siranap-ws/src/java/siranapws/BedMonitoring.java"
 4.	Compile menjadi war.
 5.	Upload ke Server Application (misal Apache Tomcat)
